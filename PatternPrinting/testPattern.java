@@ -9,6 +9,8 @@ public class testPattern {
 
           //IncreasingNumberTrianglePattern increasingNumberTrianglePattern = new IncreasingNumberTrianglePattern(5);
 
-        RepeatedNumberTrianglePattern  RepeatedNumberTrianglePattern= new RepeatedNumberTrianglePattern(5);
+        //RepeatedNumberTrianglePattern  RepeatedNumberTrianglePattern= new RepeatedNumberTrianglePattern(5);
+
+        FullPyramid d= new FullPyramid(5);
     }
 }
