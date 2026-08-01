@@ -11,6 +11,10 @@ public class testPattern {
 
         //RepeatedNumberTrianglePattern  RepeatedNumberTrianglePattern= new RepeatedNumberTrianglePattern(5);
 
-        FullPyramid d= new FullPyramid(5);
+        //FullPyramid d= new FullPyramid(5);
+
+        InvertedFullPyramid p= new InvertedFullPyramid(5);
+
+
     }
 }
