@@ -7,6 +7,8 @@ public class testPattern {
 
         //  traingularpattern t= new traingularpattern(5);
 
-          IncreasingNumberTrianglePattern increasingNumberTrianglePattern = new IncreasingNumberTrianglePattern(5);
+          //IncreasingNumberTrianglePattern increasingNumberTrianglePattern = new IncreasingNumberTrianglePattern(5);
+
+        RepeatedNumberTrianglePattern  RepeatedNumberTrianglePattern= new RepeatedNumberTrianglePattern(5);
     }
 }
