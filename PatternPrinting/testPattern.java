@@ -18,7 +18,9 @@ public class testPattern {
 
         //Diamond d= new Diamond(5);
 
-        HalfDiamond h= new HalfDiamond(5);
+       // HalfDiamond h= new HalfDiamond(5);
+
+        BinaryTriangle b= new BinaryTriangle(5);
 
     }
 }
