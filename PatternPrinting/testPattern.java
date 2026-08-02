@@ -20,7 +20,9 @@ public class testPattern {
 
        // HalfDiamond h= new HalfDiamond(5);
 
-        BinaryTriangle b= new BinaryTriangle(5);
+        //BinaryTriangle b= new BinaryTriangle(5);
 
+
+        PalindromicNumberPattern p= new PalindromicNumberPattern(5);
     }
 }
