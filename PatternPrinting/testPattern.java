@@ -16,7 +16,9 @@ public class testPattern {
        // InvertedFullPyramid p= new InvertedFullPyramid(5);
 
 
-        Diamond d= new Diamond(5);
+        //Diamond d= new Diamond(5);
+
+        HalfDiamond h= new HalfDiamond(5);
 
     }
 }
