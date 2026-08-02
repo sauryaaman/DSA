@@ -13,8 +13,10 @@ public class testPattern {
 
         //FullPyramid d= new FullPyramid(5);
 
-        InvertedFullPyramid p= new InvertedFullPyramid(5);
+       // InvertedFullPyramid p= new InvertedFullPyramid(5);
 
+
+        Diamond d= new Diamond(5);
 
     }
 }
