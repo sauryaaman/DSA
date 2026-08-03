@@ -27,6 +27,8 @@ public class testPattern {
 
         //Floyd_Triangle_ContinuousNUmberTrainglePattern f= new Floyd_Triangle_ContinuousNUmberTrainglePattern(4);
 
-        Right_Angled_Alphabet_Triangle_Pattern r= new Right_Angled_Alphabet_Triangle_Pattern(4);
+        //Right_Angled_Alphabet_Triangle_Pattern r= new Right_Angled_Alphabet_Triangle_Pattern(4);
+
+        inverted_Right_Angled_Alphabet_Triangle_Pattern i= new inverted_Right_Angled_Alphabet_Triangle_Pattern(5);
     }
 }
