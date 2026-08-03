@@ -31,6 +31,8 @@ public class testPattern {
 
         //inverted_Right_Angled_Alphabet_Triangle_Pattern i= new inverted_Right_Angled_Alphabet_Triangle_Pattern(5);
 
-        Repeated_Alphabet_Triangle_Pattern r= new Repeated_Alphabet_Triangle_Pattern(5);
+        //Repeated_Alphabet_Triangle_Pattern r= new Repeated_Alphabet_Triangle_Pattern(5);
+
+        Palindromic_Alphabet_Pyramid_Pattern p= new Palindromic_Alphabet_Pyramid_Pattern(5);
     }
 }
