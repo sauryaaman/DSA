@@ -23,6 +23,8 @@ public class testPattern {
         //BinaryTriangle b= new BinaryTriangle(5);
 
 
-        PalindromicNumberPattern p= new PalindromicNumberPattern(5);
+        //PalindromicNumberPattern p= new PalindromicNumberPattern(5);
+
+        Floyd_Triangle_ContinuousNUmberTrainglePattern f= new Floyd_Triangle_ContinuousNUmberTrainglePattern(4);
     }
 }
