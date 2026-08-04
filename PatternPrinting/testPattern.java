@@ -35,6 +35,8 @@ public class testPattern {
 
         //Palindromic_Alphabet_Pyramid_Pattern p= new Palindromic_Alphabet_Pyramid_Pattern(5);
 
-        ReverseAlphabetTrianglePattern r= new ReverseAlphabetTrianglePattern(4);
+        //ReverseAlphabetTrianglePattern r= new ReverseAlphabetTrianglePattern(4);
+
+        HollowDiamondPattern h= new HollowDiamondPattern(5);
     }
 }
