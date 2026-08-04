@@ -42,6 +42,8 @@ public class testPattern {
 
         //ButterflyPattern b= new ButterflyPattern(5);
 
-        HollowSquarePattern h= new HollowSquarePattern(5);
+        //HollowSquarePattern h= new HollowSquarePattern(5);
+
+        ConcentricNumberPattern c= new ConcentricNumberPattern(4);
     }
 }
