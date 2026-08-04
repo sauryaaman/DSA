@@ -37,6 +37,9 @@ public class testPattern {
 
         //ReverseAlphabetTrianglePattern r= new ReverseAlphabetTrianglePattern(4);
 
-        HollowDiamondPattern h= new HollowDiamondPattern(5);
+       // HollowDiamondPattern h= new HollowDiamondPattern(5);
+
+
+        ButterflyPattern b= new ButterflyPattern(5);
     }
 }
