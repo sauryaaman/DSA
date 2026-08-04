@@ -40,6 +40,8 @@ public class testPattern {
        // HollowDiamondPattern h= new HollowDiamondPattern(5);
 
 
-        ButterflyPattern b= new ButterflyPattern(5);
+        //ButterflyPattern b= new ButterflyPattern(5);
+
+        HollowSquarePattern h= new HollowSquarePattern(5);
     }
 }
