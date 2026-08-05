@@ -9,6 +9,7 @@ public class ReverseDigitNumber {
         while (x>0) {
               int lastDigit= x%10;
              reverseNumber=reverseNumber*10+ lastDigit;
+
              x=x/10;
 
 

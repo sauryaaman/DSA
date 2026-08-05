@@ -10,7 +10,12 @@ public class test {
 
         // 2. Reverse a Number
 
-        ReverseDigitNumber r= new ReverseDigitNumber(234);
+        //ReverseDigitNumber r= new ReverseDigitNumber(234);
+
+
+        // 3.Pallindrome nuber
+        PallindromeNumber p= new PallindromeNumber();
+        p.isPallindrome(4557);
 
 
 
