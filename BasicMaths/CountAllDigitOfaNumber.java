@@ -3,7 +3,9 @@ package BasicMaths;
 public class CountAllDigitOfaNumber{
 
 
-    CountAllDigitOfaNumber(int n)
+
+
+    int CountAllDigitOfaNumber(int n)
     {
 
 
@@ -13,8 +15,23 @@ public class CountAllDigitOfaNumber{
 //       System.out.println(s.length());
 
 
-        String s=Integer.toString(n);
-        System.out.println(s.length());
+//        String s=Integer.toString(n);
+//        System.out.println(s.length());
+
+        int x=n;
+        int count=0;
+         int remainder=0;
+        while(x>0)
+        {
+            x=x/10;
+
+            count++;
+
+
+
+        }
+        return count;
+
 
 
     }
