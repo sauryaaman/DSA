@@ -19,7 +19,12 @@ public class test {
 
         //4. ArmStrong
 
-        ArmStrongNUmber n= new ArmStrongNUmber(371);
+       // ArmStrongNUmber n= new ArmStrongNUmber(371);
+
+
+        //6. print All Divisor NUmber
+
+        PrintAllDivisor p= new PrintAllDivisor(72);
 
 
 
