@@ -24,7 +24,9 @@ public class test {
 
         //6. print All Divisor NUmber
 
-        PrintAllDivisor p= new PrintAllDivisor(72);
+        //PrintAllDivisor p= new PrintAllDivisor(72);
+
+        IsPrimeNumber p= new IsPrimeNumber(4);
 
 
 
