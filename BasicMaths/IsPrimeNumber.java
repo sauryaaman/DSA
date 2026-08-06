@@ -11,6 +11,8 @@ public class IsPrimeNumber {
             if(n!=1) {
                 if (n % i == 0) {
                     count++;
+                    if(count>2)
+                        break;
                     if (n / i != i) {
                         count++;
                     }

@@ -26,7 +26,7 @@ public class test {
 
         //PrintAllDivisor p= new PrintAllDivisor(72);
 
-        IsPrimeNumber p= new IsPrimeNumber(4);
+        IsPrimeNumber p= new IsPrimeNumber(19);
 
 
 
