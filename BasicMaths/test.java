@@ -14,8 +14,12 @@ public class test {
 
 
         // 3.Pallindrome nuber
-        PallindromeNumber p= new PallindromeNumber();
-        p.isPallindrome(4557);
+//        PallindromeNumber p= new PallindromeNumber();
+//        p.isPallindrome(4557);
+
+        //4. ArmStrong
+
+        ArmStrongNUmber n= new ArmStrongNUmber(371);
 
 
 
