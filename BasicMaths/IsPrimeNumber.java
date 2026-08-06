@@ -5,7 +5,8 @@ public class IsPrimeNumber {
     {
         int count=0;
 
-        for(int i=1; i<=Math.sqrt(n);i++)
+        //for(int i=1; i<=Math.sqrt(n);i++)  //Math.sqrt is fucntion which takes time theres fore is is  write in another way the is
+        for(int i=1; i*i<=n;i++)
         {
             if(n!=1) {
                 if (n % i == 0) {

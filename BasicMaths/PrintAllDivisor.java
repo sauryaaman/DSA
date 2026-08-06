@@ -23,7 +23,10 @@ public class PrintAllDivisor {
         Set <Integer> shortedDivisor= new TreeSet<>();
 
 
-        for (int i = 1; i <=Math.sqrt(n); i++) {
+//        for (int i = 1; i <=Math.sqrt(n); i++)
+        for (int i = 1; i*i<n; i++)
+
+        {
             if (n%i == 0) {
                 shortedDivisor.add(i);
 //                System.out.println(i);
