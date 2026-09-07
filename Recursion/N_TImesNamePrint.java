@@ -1,6 +1,6 @@
 package Recursion;
 
-import BasicMaths.PrintAllDivisor;
+
 
 public class N_TImesNamePrint {
     public void  PrintName(String name,int n){
