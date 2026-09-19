@@ -24,11 +24,11 @@ public class test {
 
         //6. print All Divisor NUmber
 
-        //PrintAllDivisor p= new PrintAllDivisor(72);
+        PrintAllDivisor p= new PrintAllDivisor(71);
 
         //IsPrimeNumber p= new IsPrimeNumber(19);
 
-        GCD g= new GCD(787874,87787984);
+//        GCD g= new GCD(787874,87787984);
 
 
 
