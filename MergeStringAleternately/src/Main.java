@@ -8,7 +8,10 @@ public class Main {
 //        System.out.println(m.mergeAlternately("abfndsfw","f"));
 
 
-        LastWordLength l= new LastWordLength("i am very samrt");
+//        LastWordLength l= new LastWordLength("i am very samrt");
+
+        Reverse_word r= new Reverse_word();
+        System.out.println(r.reverseWords("Hello baby how are you"));
 
     }
 }
