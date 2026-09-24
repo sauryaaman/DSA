@@ -4,8 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        MergeStringAlternately m= new MergeStringAlternately();
-        System.out.println(m.mergeAlternately("abfndsfw","f"));
+//        MergeStringAlternately m= new MergeStringAlternately();
+//        System.out.println(m.mergeAlternately("abfndsfw","f"));
+
+
+        LastWordLength l= new LastWordLength("i am very samrt");
 
     }
 }
